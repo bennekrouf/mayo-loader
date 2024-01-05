@@ -1,0 +1,1 @@
+declare module 'mayo-loader';

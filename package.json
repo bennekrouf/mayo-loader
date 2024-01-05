@@ -1,5 +1,5 @@
 {
-  "name": "mayo-loader", 
+  "name": "mayo-loader",
   "version": "1.0.0",
   "description": "A standard loader with fading effect",
   "main": "index.ts",
@@ -20,5 +20,17 @@
   "bugs": {
     "url": "https://github.com/ribx-token/mayo-loader/issues"
   },
-  "homepage": "https://github.com/ribx-token/mayo-loader#readme"
+  "homepage": "https://github.com/ribx-token/mayo-loader#readme",
+  "dependencies": {
+    "@types/react": "^18.2.27",
+    "@types/react-native": "^0.73.0",
+    "mayo-logger": "^1.0.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "typescript": "^5.2.2"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
 }
