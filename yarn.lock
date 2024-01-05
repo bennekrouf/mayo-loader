@@ -3161,7 +3161,7 @@ react-native-codegen@0.71.6:
     jscodeshift "^0.14.0"
     nullthrows "^1.1.1"
 
-react-native@*:
+react-native@*, react-native@^0.73.1:
   version "0.73.1"
   resolved "https://registry.npmjs.org/react-native/-/react-native-0.73.1.tgz#5eafaa7e54feeab8b55e8b8e4efc4d21052a4fff"
   integrity sha512-nLl9O2yKRh1nMXwsk4SUiD0ddd19RqlKgNU9AU8bTK/zD2xwnVOG56YK1/22SN67niWyoeG83vVg1eTk+S6ReA==
