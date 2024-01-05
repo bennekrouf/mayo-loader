@@ -1,0 +1,24 @@
+{
+  "name": "mayo-loader", 
+  "version": "1.0.0",
+  "description": "A standard loader with fading effect",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribx-token/mayo-loader.git"
+  },
+  "keywords": [
+    "Loader",
+    "React-native",
+    "Mayo"
+  ],
+  "author": "Mohamed Bennekrouf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ribx-token/mayo-loader/issues"
+  },
+  "homepage": "https://github.com/ribx-token/mayo-loader#readme"
+}
