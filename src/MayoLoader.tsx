@@ -3,7 +3,7 @@ import { View, Animated, StyleSheet, Image } from 'react-native';
 
 interface MayoLoaderProps {
   isVisible: boolean;
-  imageSource: any; // Specify a more specific type if possible, e.g., ImageSourcePropType
+  imageSource: any;
   duration?: number; // Optional prop
 }
 
