@@ -44,7 +44,8 @@ export default YourComponent;
 
 ### Customization
 
-You can customize the loader by passing your own image source and adjusting the animation duration. For further customization, you can modify the styles in MayoLoader.js.
+You can customize the loader by passing your own image source and adjusting the animation duration.
+
 Example
 
 Here's an example of how to use the MayoLoader with a custom image and a longer duration:

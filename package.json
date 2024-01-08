@@ -1,6 +1,6 @@
 {
   "name": "mayo-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A standard loader with fading effect",
   "main": "dist/index.js",
   "scripts": {
